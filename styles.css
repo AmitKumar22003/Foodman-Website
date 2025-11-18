@@ -157,6 +157,7 @@ nav {
 .header__image img {
   max-width: 600px;
   margin-inline: auto;
+  border-radius:20px;
 }
 
 .header__content h1 {
